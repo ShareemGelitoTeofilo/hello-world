@@ -1,0 +1,151 @@
+[33mcommit 3428ff14e8bdacc35a47e57973ca49bf3bc15752[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Wed Jun 26 09:38:26 2019 +0800
+
+    Added a new file
+
+[33mcommit e3f08cbb96029768a9fe79b837dd98e8e7ef7f52[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Wed Jun 26 09:30:58 2019 +0800
+
+    Successfull cloning
+
+[33mcommit 9f79397b458f9a8d9130873fd9ad7586e426b448[m
+Merge: 0c6bc33 f768277
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Wed Jun 26 09:05:29 2019 +0800
+
+    Fixed merge conflict
+
+[33mcommit f768277b609bf2670bf856a2174807541128a394[m
+Author: rsbGelitoTeofilo <52191037+rsbGelitoTeofilo@users.noreply.github.com>
+Date:   Wed Jun 26 09:09:39 2019 +0800
+
+    added new change
+
+[33mcommit fdc525b4f3648b235090e289785d5c894e47aaa1[m
+Author: rsbGelitoTeofilo <52191037+rsbGelitoTeofilo@users.noreply.github.com>
+Date:   Wed Jun 26 09:07:50 2019 +0800
+
+    Added latest change
+
+[33mcommit 0c6bc337d0408d6f84c0612e1c8e55887cec0dcf[m
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Wed Jun 26 09:04:21 2019 +0800
+
+    Added adfasdf
+
+[33mcommit 5c5a3d1e1ad6181b3b02b268a976278875fba632[m
+Merge: f08b278 a3a37f1
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Tue Jun 25 17:42:39 2019 +0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit a3a37f15b4d3365506d69fc9cdfbb417e736e910[m
+Author: rsbGelitoTeofilo <52191037+rsbGelitoTeofilo@users.noreply.github.com>
+Date:   Tue Jun 25 17:45:56 2019 +0800
+
+    added hi
+
+[33mcommit f08b2783c03a2e02be73a38fb6d7ba5005c062b8[m
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Tue Jun 25 17:40:56 2019 +0800
+
+    added low
+
+[33mcommit ef4e95d3c7f4fb19f253f4ec9421b341723604dd[m
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Tue Jun 25 17:36:18 2019 +0800
+
+    added hello
+
+[33mcommit e8222aef255128557206e387393429ce673cc214[m
+Merge: b06c15c 3cf4b8c
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Tue Jun 25 17:07:54 2019 +0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit 3cf4b8c2b1e5486c4895b56e454fdfc9735a7a1c[m
+Author: rsbGelitoTeofilo <52191037+rsbGelitoTeofilo@users.noreply.github.com>
+Date:   Tue Jun 25 17:04:43 2019 +0800
+
+    add d
+
+[33mcommit b06c15cacf43c381d55eccd8f94e07336461e316[m
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Tue Jun 25 17:03:23 2019 +0800
+
+    added zz
+
+[33mcommit c7635537be1f8ca188166fdb28f3f966b502a5df[m
+Merge: 6d0f26b 582b49c
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Tue Jun 25 16:54:03 2019 +0800
+
+    Merge branches 'branch2', 'master' and 'readme-edits' of https://github.com/rsbGelitoTeofilo/hello-world
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit 6d0f26b2317cdcb29d2f4554f881bd52a9eb0338[m[33m ([m[1;31morigin/branch2[m[33m)[m
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Tue Jun 25 16:38:17 2019 +0800
+
+    Fix merge conflicts
+
+[33mcommit 7411e391b68b0405a4fbfaacff7762ca055d2a62[m
+Author: rsbGelitoTeofilo <52191037+rsbGelitoTeofilo@users.noreply.github.com>
+Date:   Tue Jun 25 16:30:26 2019 +0800
+
+    added b
+
+[33mcommit 434d72e12f2db4ac517bbc5763526a86c00e52b1[m
+Merge: 82e7321 f3d510c
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Tue Jun 25 16:16:01 2019 +0800
+
+    Fixed merge conflicts
+
+[33mcommit 82e73217482174ad19dd81415e1e216b1450178e[m
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Tue Jun 25 16:11:41 2019 +0800
+
+    ""
+
+[33mcommit f3d510ca56c9ac2c701660a91673ff2242a9cffc[m
+Author: rsbGelitoTeofilo <52191037+rsbGelitoTeofilo@users.noreply.github.com>
+Date:   Tue Jun 25 16:10:34 2019 +0800
+
+    changes 3
+
+[33mcommit 3d7706d21e1019daf530970753bc9c697242f6b7[m
+Author: rsbGelitoTeofilo <52191037+rsbGelitoTeofilo@users.noreply.github.com>
+Date:   Tue Jun 25 16:01:17 2019 +0800
+
+    Second changes
+
+[33mcommit 1c52fba71967801c2a33b9ec960dad328bc561d5[m
+Author: rsbGelitoTeofilo <shareemgelitoteofilo@yahoo.com>
+Date:   Tue Jun 25 15:50:14 2019 +0800
+
+    First change
+
+[33mcommit 582b49cba43bf98e2b5f07efe2c2e826fd3a9cc6[m[33m ([m[1;31morigin/readme-edits[m[33m)[m
+Author: rsbGelitoTeofilo <52191037+rsbGelitoTeofilo@users.noreply.github.com>
+Date:   Tue Jun 25 14:23:13 2019 +0800
+
+    Updated Readme
+
+[33mcommit 9b86b8a7e3d4e240b6b98933e337533de764f307[m
+Author: rsbGelitoTeofilo <52191037+rsbGelitoTeofilo@users.noreply.github.com>
+Date:   Tue Jun 25 14:16:22 2019 +0800
+
+    Initial commit
